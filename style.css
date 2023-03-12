@@ -1,0 +1,23 @@
+h1{
+    text-shadow: 3px 3px blue;
+    text-align: center;
+}
+img {
+    width: 100%;
+    
+}
+figure {
+    width: 500px;
+    margin: auto;
+}
+p {
+    font-style: italic;
+    border: 5px dotted black;
+    width: 258px;
+    text-align: center;
+    margin: auto;
+    background-color: aliceblue;   
+}
+body {
+    background-color: brown;
+}
